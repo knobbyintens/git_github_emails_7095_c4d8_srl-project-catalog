@@ -1,0 +1,34 @@
+{
+  "catalog_version": "2026.11-draft",
+  "lab": "Silverpine Research Lab",
+  "projects": [
+    {
+      "project_id": "SRL-101",
+      "title": "Adaptive Chunking for Long-Form Meeting Audio",
+      "venue": "Interspeech 2026",
+      "repo_name": "git_github_emails_7095_c4d8_srl-adaptive-chunking",
+      "code_url": ""
+    },
+    {
+      "project_id": "SRL-102",
+      "title": "Sparse Mixture Routing for Edge Inference",
+      "venue": "ICML 2026",
+      "repo_name": "git_github_emails_7095_c4d8_srl-sparse-routing",
+      "code_url": ""
+    },
+    {
+      "project_id": "SRL-103",
+      "title": "Neural Indexing for Real-Time Query Routing",
+      "venue": "NeurIPS 2026 Datasets and Benchmarks",
+      "repo_name": "git_github_emails_7095_c4d8_srl-neural-indexing",
+      "code_url": ""
+    },
+    {
+      "project_id": "SRL-104",
+      "title": "Graph-Regularized Prompt Tuning for Clinical Notes",
+      "venue": "AMIA 2025",
+      "repo_name": null,
+      "code_url": ""
+    }
+  ]
+}
